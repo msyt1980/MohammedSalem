@@ -5,21 +5,31 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>Front-end developer • UI/UX enthusiast • Python & JavaScript developer • Security researcher (ethical)</em></p>
+<p><em>
+  🚀 Front-End Developer | 🎨 UI/UX Enthusiast | 🐍 Python & JS Developer | 🛡️ Ethical Security Researcher
+</em></p>
 
 ---
 
-### 🔭 About Me
+### 🔍 About Me
 
 ```javascript
 const mohamed = {
-  name: "Mohamed Salem",
+  fullName: "Mohamed Salem",
   role: "Web Developer & Security Researcher",
   pronouns: "he/him",
   languages: ["HTML", "CSS", "JavaScript", "Python"],
-  specialties: ["Front-end", "UI/UX", "Responsive Design", "Automation"],
-  securityFocus: "Ethical security research and responsible disclosure",
-  tools: ["VS Code", "Figma", "Kali Linux", "Burp Suite", "Wireshark", "Git"],
-  currentGoals: "Build polished UI & UX for web apps and contribute to open-source security tools",
-  funFact: "I enjoy turning complex problems into simple interfaces."
+  focusAreas: ["Front-end Development", "UI/UX Design", "Responsive Web Apps", "Automation"],
+  security: {
+    interest: "Ethical Hacking",
+    approach: "Responsible Disclosure",
+    toolsUsed: ["Kali Linux", "Burp Suite", "Wireshark"]
+  },
+  tools: ["VS Code", "Git", "Figma"],
+  goals: [
+    "Develop elegant and user-friendly web interfaces",
+    "Contribute to open-source security tools",
+    "Expand expertise in ethical hacking"
+  ],
+  funFact: "I love simplifying complex problems into clean, usable interfaces."
 };
